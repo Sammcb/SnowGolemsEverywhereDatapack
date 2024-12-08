@@ -21,8 +21,8 @@
 
 			buildDirectory = ".build";
 			datapackName = "snow-golems-everywhere";
-			version = "1.1.1";
-			minecraftVersion = "1.21.3";
+			version = "1.2.0";
+			minecraftVersion = "1.21.4";
 
 			buildScript = pkgs.writeShellApplication {
 				name = "build";
